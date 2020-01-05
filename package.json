@@ -11,7 +11,7 @@
     "express-session": "~1.14.1",
     "method-override": "~2.3.6",
     "mongod": "^2.0.0",
-    "mongoose": "~4.13.1",
+    "mongoose": "~5.7.5",
     "morgan": "~1.9.1",
     "passport": "~0.3.2",
     "passport-facebook": "~2.1.1",
